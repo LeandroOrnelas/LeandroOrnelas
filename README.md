@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Leandro Ornelas, Analista de Dados com 12 anos de experiência no mercado de saúde suplementar e mais de 5 anos de atuação focada em dados. Possuo formação em finanças e uma pós-graduação na mesma área, além de estar atualmente cursando uma especialização em Ciência de Dados.
+  🧑‍💼 Sou Leandro Ornelas, Analista de Dados com 12 anos de experiência no mercado de saúde suplementar e mais de 5 anos de atuação focada em dados. 
   
-  Tenho um forte conhecimento em ferramentas de visualização e análise de dados, especialmente QlikView e QlikSense, e estou expandindo minhas habilidades em programação, com foco em Python.
+  💼 Possuo formação em finanças e uma pós-graduação na mesma área, além de estar atualmente cursando uma especialização em Ciência de Dados.
+  
+  📊 Tenho um forte conhecimento em ferramentas de visualização e análise de dados, especialmente QlikView e QlikSense, e estou expandindo minhas habilidades em programação, com foco em Python.
 
 <p align="left">
   :envelope: Se você quiser bater um papo sobre dados, projetos ou qualquer outra coisa, sinta-se à vontade para me enviar uma mensagem!: ⤵️
