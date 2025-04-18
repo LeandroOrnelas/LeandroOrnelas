@@ -1,15 +1,35 @@
+# Leandro Ornelas | Analista de Dados
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  🧑‍💼 Sou Leandro Ornelas, Analista de Dados com 12 anos de experiência no mercado de saúde suplementar e mais de 5 anos de atuação focada em dados. 
-  
-  💼 Possuo formação em finanças e uma pós-graduação na mesma área, além de estar atualmente cursando uma especialização em Ciência de Dados.
-  
-  📊 Tenho um forte conhecimento em ferramentas de visualização e análise de dados, especialmente QlikView e QlikSense, e estou expandindo minhas habilidades em programação, com foco em Python.
+### 👨‍💼 Sobre mim
 
-<p align="left">
-  :envelope: Se você quiser bater um papo sobre dados, projetos ou qualquer outra coisa, sinta-se à vontade para me enviar uma mensagem!: ⤵️
+- 🎯 **12 anos de experiência** no mercado de saúde suplementar
+- 📈 **5+ anos focados em dados**, com domínio em BI
+- 🎓 Formação em **Finanças** + pós-graduação na área
+- 📚 Especialização em **Gestão Publica em Sáude**  e **Ciência de Dados**
+- 💡 Forte conhecimento em **QlikView/Qlik Sense**
+- 🛢️ Experiência prática com **SQL**, em constante evolução  
+- 🐍 Aprimorando habilidades em **Python** para análise e automação 
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,postgresql" />
 </p>
+
+---
+
+### 📌 Projeto em Destaque
+
+- 🗺️ [Polígonos por Bairro](https://github.com/LeandroOrnelas/poligonos-bairros)  
+  Repositório com shapefiles e visualizações para estudo e análise espacial de bairros.
+
+---
+
+### 📬 Contato
 
 <p align="left">
   <a href="mailto:leandro.nanndo@gmail.com" title="Gmail">
@@ -21,4 +41,12 @@
   <a href="https://api.whatsapp.com/send?phone=5534991949009" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroOrnelas&show_icons=true&hide_border=true&count_private=true&theme=default" />
 </p>
