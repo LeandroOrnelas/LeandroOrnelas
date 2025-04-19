@@ -10,15 +10,13 @@
 - 📚 Especialização em **Gestão Publica em Sáude**  e **Ciência de Dados**
 - 💡 Forte conhecimento em **QlikView/Qlik Sense**
 - 🛢️ Experiência prática com **SQL**, em constante evolução  
-- 🐍 Aprimorando habilidades em **Python** para análise e automação 
+- 🐍 Aprimorando habilidades em **Python** para análise e automação.
 
 ---
 
 ### 🧰 Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,postgresql" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -50,3 +48,5 @@
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroOrnelas&show_icons=true&hide_border=true&count_private=true&theme=default" />
 </p>
+
+
