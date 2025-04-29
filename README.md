@@ -4,12 +4,12 @@
 
 ### 👨‍💼 Sobre mim
 
-- 🎯 **12 anos de experiência** no mercado de saúde suplementar
+- 🎯 **12 anos de experiência** no mercado de saúde suplementar.
 - 📈 **5+ anos focados em dados**, com domínio em BI
 - 🎓 Formação em **Finanças** + pós-graduação na área
 - 📚 Especialização em **Gestão Publica em Sáude**  e **Ciência de Dados**
 - 💡 Forte conhecimento em **QlikView/Qlik Sense**
-- 🛢️ Experiência prática com **SQL**, em constante evolução  
+- 🛢️ Experiência prática com **SQL**, em constante evolução.
 - 🐍 Aprimorando habilidades em **Python** para análise e automação.
 
 ---
@@ -30,7 +30,7 @@
 ### 📬 Contato
 
 <p align="left">
-  <a href="mailto:leandro.nanndo@gmail.com" title="Gmail">
+  <a href="mailto:leandromornelas@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/leandroornelas/" title="LinkedIn">
