@@ -31,13 +31,13 @@
 
 <p align="left">
   <a href="mailto:leandromornelas@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/leandroornelas/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5534991949009" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroOrnelas&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroOrnelas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" />
 </p>
 
 
